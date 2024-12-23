@@ -1,6 +1,6 @@
 ### NAME:BHARANIKA.A.S
 ### REG NO:24901181
-### EXPERIMENT3:HALF ADDER SUBTRACTOR
+### EXPERIMENT3: IMPLEMENTATION OF HALF ADDER SUBTRACTOR
 # AIM
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
